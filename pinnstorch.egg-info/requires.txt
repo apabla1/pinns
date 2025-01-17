@@ -1,0 +1,7 @@
+hydra-core
+matplotlib
+pyDOE
+rich
+rootutils
+scipy
+tqdm
